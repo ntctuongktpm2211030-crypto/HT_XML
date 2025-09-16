@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product id="SP001" category="Điện tử" price="12990000" currency="VND"/>
+  <product id="SP002" category="Thời trang" price="799000" currency="VND"/>
+  <product id="SP003" category="Thực phẩm" price="299.99" currency="USD"/>
+  <product id="SP004" category="Gia dụng" price="799000" currency="VND"/>
+  <product id="SP005" category="Sách" price="799000" currency="VND"/>
+  <product id="SP006" category="Mỹ phẩm" price="799000" currency="VND"/>
+  <product id="SP007" category="Thể thao" price="39" currency="USD"/>
+</products>
