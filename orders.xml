@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE orders SYSTEM "orders.dtd">
+<orders>
+    <order id="ORD001">
+        <product id="P001">
+            <name>Laptop Dell XPS 13</name>
+            <quantity>1</quantity>
+        </product>
+        <product id="P002">
+            <name>Chuột không dây Logitech</name>
+            <quantity>2</quantity>
+        </product>
+        <product id="P003">
+            <name>Bàn phím cơ</name>
+            <quantity>1</quantity>
+        </product>
+    </order>
+    <order id="ORD002">
+        <product id="P004">
+            <name>Màn hình 27 inch</name>
+            <quantity>1</quantity>
+        </product>
+        <product id="P005">
+            <name>Webcam HD</name>
+            <quantity>1</quantity>
+        </product>
+    </order>
+    <order id="ORD003">
+        <product id="P006">
+            <name>Ổ cứng SSD 1TB</name>
+            <quantity>2</quantity>
+        </product>
+        <product id="P007">
+            <name>RAM 16GB DDR4</name>
+            <quantity>1</quantity>
+        </product>
+        <product id="P008">
+            <name>Card đồ họa RTX 4060</name>
+            <quantity>1</quantity>
+        </product>
+    </order>
+</orders>

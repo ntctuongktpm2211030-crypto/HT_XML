@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE students SYSTEM "students.dtd">
+<students>
+    <student id="SV001">
+        <name>Nguyễn Văn An</name>
+        <dob>2000-05-15</dob>
+        <major>Công nghệ thông tin</major>
+    </student>
+    <student id="SV002">
+        <name>Trần Thị Bình</name>
+        <dob>2001-08-22</dob>
+        <major>Kỹ thuật phần mềm</major>
+    </student>
+    <student id="SV003">
+        <name>Lê Văn Cường</name>
+        <dob>1999-12-10</dob>
+        <major>Khoa học máy tính</major>
+    </student>
+</students>

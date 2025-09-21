@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE library SYSTEM "library.dtd">
+<library>
+    <book id="B001">
+        <title>Lập trình Java cơ bản</title>
+        <author>Nguyễn Văn Minh</author>
+        <year>2023</year>
+        <genre>Lập trình</genre>
+    </book>
+    <book id="B002">
+        <title>Thiết kế cơ sở dữ liệu</title>
+        <author>Trần Thị Lan</author>
+        <year>2022</year>
+        <genre>Khoa học máy tính</genre>
+    </book>
+    <book id="B003">
+        <title>Mạng máy tính và Internet</title>
+        <author>Lê Văn Hùng</author>
+        <year>2024</year>
+        <genre>Mạng máy tính</genre>
+    </book>
+    <book id="B004">
+        <title>Trí tuệ nhân tạo</title>
+        <author>Phạm Thị Mai</author>
+        <year>2023</year>
+        <genre>Trí tuệ nhân tạo</genre>
+    </book>
+</library>
